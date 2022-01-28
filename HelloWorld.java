@@ -12,5 +12,6 @@ public class HelloWorld{
         System.out.println("修改了HelloWorld类");
         System.out.println("第二次修改");
         System.out.println("在master分支下输出一条信息")
+        System.out.println("在develop分支下添加一条输出语句");
     }
 }
